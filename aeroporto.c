@@ -118,5 +118,6 @@ int main(){
 	saida_aviao(&prat3, 1);
 	ingressa_pista(&pista1, &prat3);
 	imprimirPistadePouso(&pista1);
+	printf("Teste Finalizado");
     return 0;
 }
